@@ -1,17 +1,19 @@
 {
   "files": {
     "main.css": "/home/static/css/main.fe927caf.css",
-    "main.js": "/home/static/js/main.92620de1.js",
+    "main.js": "/home/static/js/main.30a4f33a.js",
     "static/js/787.4b24f717.chunk.js": "/home/static/js/787.4b24f717.chunk.js",
-    "static/media/shreyas_reddy_software_intern_resume.pdf": "/home/static/media/shreyas_reddy_software_intern_resume.a17f0c01c882e1be91ca.pdf",
-    "static/media/shreyas.png": "/home/static/media/shreyas.9ff49c4f452f78c52843.png",
+    "static/media/asu.jpg": "/home/static/media/asu.bea063fc759ad8bfa144.jpg",
+    "static/media/resume.pdf": "/home/static/media/resume.8a04f82c291ebc2da370.pdf",
+    "static/media/iiit.jpeg": "/home/static/media/iiit.c53675a60eec030ef13c.jpeg",
+    "static/media/shreyas.jpg": "/home/static/media/shreyas.ecca2a49bfedd3371cb0.jpg",
     "index.html": "/home/index.html",
     "main.fe927caf.css.map": "/home/static/css/main.fe927caf.css.map",
-    "main.92620de1.js.map": "/home/static/js/main.92620de1.js.map",
+    "main.30a4f33a.js.map": "/home/static/js/main.30a4f33a.js.map",
     "787.4b24f717.chunk.js.map": "/home/static/js/787.4b24f717.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fe927caf.css",
-    "static/js/main.92620de1.js"
+    "static/js/main.30a4f33a.js"
   ]
 }

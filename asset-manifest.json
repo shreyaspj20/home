@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/home/static/css/main.fe927caf.css",
-    "main.js": "/home/static/js/main.f3a2c2c2.js",
+    "main.js": "/home/static/js/main.62e27e6a.js",
     "static/js/787.4b24f717.chunk.js": "/home/static/js/787.4b24f717.chunk.js",
     "static/media/asu.jpg": "/home/static/media/asu.bea063fc759ad8bfa144.jpg",
     "static/media/shreyas_resume_amazon.pdf": "/home/static/media/shreyas_resume_amazon.55bb37aff00a31ab3459.pdf",
@@ -9,11 +9,11 @@
     "static/media/headshot.jpeg": "/home/static/media/headshot.89c35c4f3d28c5c0dceb.jpeg",
     "index.html": "/home/index.html",
     "main.fe927caf.css.map": "/home/static/css/main.fe927caf.css.map",
-    "main.f3a2c2c2.js.map": "/home/static/js/main.f3a2c2c2.js.map",
+    "main.62e27e6a.js.map": "/home/static/js/main.62e27e6a.js.map",
     "787.4b24f717.chunk.js.map": "/home/static/js/787.4b24f717.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fe927caf.css",
-    "static/js/main.f3a2c2c2.js"
+    "static/js/main.62e27e6a.js"
   ]
 }
